@@ -1,4 +1,4 @@
-# **Skin Lesion Segmentation Using Deep Learning (U-Net Vs SegNet)**
+# **Skin Lesion Segmentation (U-Net Vs SegNet)**
 
 This project focuses on automated skin lesion segmentation using deep learning techniques. 
 
